@@ -1,0 +1,23 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local datasets
+data/
+
+# Trained models
+*.pkl
+*.joblib
+*.cbm
+*.model
+*.ubj
+
+# Environment and secrets
+.env
+.env.*
